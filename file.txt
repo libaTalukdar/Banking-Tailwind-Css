@@ -1,0 +1,55 @@
+https://www.figma.com/design/20cMhs7lQbocjo5cccJqPH/Banking-Company-Website-UI-Template-Design-in-Dark-Theme---FREE-Editable----Community---Copy-?node-id=58-1223&t=7JMkKHKv09QQtd6M-0
+
+Welcome to YourBank
+Where Banking Meets Excellence!
+
+At YourBank, we believe that banking should be more than just transactions. It should be an experience that empowers individuals and businesses to thrive and reach their financial goals. As a trusted financial institution, we are committed to delivering exceptional banking services that go beyond expectations. With a focus on innovation, personalized solutions, and unwavering integrity, we strive to provide the best banking experience for our valued customers. Join us on this exciting journey and discover a new level of banking excellence.
+
+//  Mission & Vision
+We envision being a leading force in the industry, driven by innovation, integrity, and inclusivity, creating a brighter financial future for individuals and businesses while maintaining a strong commitment to customer satisfaction and community development
+//   Mission
+
+At YourBank, our mission is to empower our customers to achieve financial success. We are dedicated to delivering innovative banking solutions that cater to their unique needs. Through personalized services, expert guidance, and cutting-edge technology, we aim to build strong, lasting relationships with our customers. Our mission is to be their trusted partner, helping them navigate their financial journey and realize their dreams.
+
+//  Vision
+Our vision at YourBank is to redefine banking by creating a seamless and personalized experience for our customers. We envision a future where banking is accessible, transparent, and tailored to individual preferences. Through continuous innovation and collaboration, we strive to be at the forefront of the industry, setting new standards for customer-centric banking. Our vision is to be the preferred financial institution, known for our unwavering commitment to excellence, trust, and customer satisfaction.
+
+//   Press Releases
+Stay updated with the latest happenings and exciting developments at YourBank through our press releases.
+
+
+YourBank Launches New Rewards Program to Enhance Customer Loyalty and Satisfaction
+Location: India  Date: 06/11/2024
+
+
+// YourBank Expands Branch Network with Opening of New Location in Chennai
+Location: India Date: 12/11/2024
+YourBank is excited to announce the grand opening of our newest branch in [City]. This expansion is a testament to our continued commitment to serving our customers and providing them with convenient access to our comprehensive range of banking services. The new branch will feature state-of-the-art facilities, a team of dedicated professionals, and a personalized approach to banking, further strengthening our presence in the local community.
+
+
+//  YourBank Partners with Local Nonprofit to Support Financial Education Initiatives
+
+Location: India  Date: 24/12/2024
+YourBank is excited to unveil our new Sustainable Banking Initiative, demonstrating our commitment to environmental responsibility. This initiative includes a range of sustainable banking products and services, such as green loans, eco-friendly investment options, and paperless banking solutions. By incorporating sustainable practices into our operations, we aim to contribute to a greener future while providing innovative banking solutions to our customers.
+
+//  YourBank Launches Sustainable Banking Initiative to Promote Environmental Responsibility
+Location: India  Date: 28/12/2024
+YourBank is excited to unveil our new Sustainable Banking Initiative, demonstrating our commitment to environmental responsibility. This initiative includes a range of sustainable banking products and services, such as green loans, eco-friendly investment options, and paperless banking solutions. By incorporating sustainable practices into our operations, we aim to contribute to a greener future while providing innovative banking solutions to our customers.
+Careers
+//
+hello@skillbirdge.com
++91 91813 23 2309
+Somewhere in the World
+//  YourBank All Rights Reserved
+
+Privacy Policy Terms of Service
+
+"type":"module", 
+  "scripts": {
+  "build":"postcss style.css -o dist/style.css",
+  "watch":"postcss style.css -o dist/style.css --watch"
+},
+
+
+#
+#1b1b1b
