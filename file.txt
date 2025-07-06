@@ -51,5 +51,12 @@ Privacy Policy Terms of Service
 },
 
 
+#      
 #
-#1b1b1b
+
+<div class=" text-white md:-mr-24   px-14 py-10 bg-[#080808] rounded-2xl h-fit z-40 md:mt-12 -mt-14">
+           <h2 class="font-semibold text-xl  ">Welcome to YourBank</h2>
+        <h1 class="text-4xl font-bold mt-4">Where Banking Meets<br> <span class="text-yellow-300">Excellence!</span> </h1>
+        <p class="mt-4 max-w-lg">At YourBank, we believe that banking should be more than just transactions. It should be an experience that empowers individuals and businesses to thrive and reach their financial goals. As a trusted financial institution, we are committed to delivering exceptional banking services that go beyond expectations. With a focus on innovation, personalized solutions, and unwavering integrity, we strive to provide the best banking experience for our valued customers. Join us on this exciting journey and discover a new level of banking excellence.</p>
+        
+        </div>
