@@ -60,3 +60,31 @@ Privacy Policy Terms of Service
         <p class="mt-4 max-w-lg">At YourBank, we believe that banking should be more than just transactions. It should be an experience that empowers individuals and businesses to thrive and reach their financial goals. As a trusted financial institution, we are committed to delivering exceptional banking services that go beyond expectations. With a focus on innovation, personalized solutions, and unwavering integrity, we strive to provide the best banking experience for our valued customers. Join us on this exciting journey and discover a new level of banking excellence.</p>
         
         </div>
+        <section class="mt-12 container px-14 mx-auto ">
+           <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+             <div class=" px-2 bg-center bg-[#080808] mx-auto bg-no-repeat" style="background-image: url('./images/Abstract Design.png');">
+              <img src="images/Image (1).png" alt="" class="px-4  rounded-tr-2xl rounded-tl-2xl max-h-[400px]">
+             </div>
+             <div class="text-white px-4 my-auto">
+              <h2 class="text-2xl font-semibold mt-4 text-center md:text-start">Mission</h2>
+              <p class="mt-4 text-center md:text-start">At YourBank, our mission is to empower our customers to achieve financial success. We are dedicated to delivering innovative banking solutions that cater to their unique needs. Through personalized services, expert guidance, and cutting-edge technology, we aim to build strong, lasting relationships with our customers. Our mission is to be their trusted partner, helping them navigate their financial journey and realize their dreams.
+</p>
+
+             </div>
+           </div>
+        </section>
+        <!-- vision -->
+        <section class="mt-12 container px-14 mx-auto ">
+           <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+             
+             <div class="text-white px-4 my-auto">
+              <h2 class="text-2xl font-semibold mt-4 text-center md:text-start">Vision</h2>
+              <p class="mt-4 text-center md:text-start">At YourBank, our mission is to empower our customers to achieve financial success. We are dedicated to delivering innovative banking solutions that cater to their unique needs. Through personalized services, expert guidance, and cutting-edge technology, we aim to build strong, lasting relationships with our customers. Our mission is to be their trusted partner, helping them navigate their financial journey and realize their dreams.
+</p>
+
+             </div>
+             <div class=" px-2 bg-center bg-[#080808] mx-auto bg-no-repeat" style="background-image: url('./images/Abstract Design.png');">
+              <img src="images/Image (2).png" alt="" class="px-4 -md:mt-[400px]  rounded-tr-2xl rounded-tl-2xl max-h-[400px]">
+             </div>
+           </div>
+        </section>
